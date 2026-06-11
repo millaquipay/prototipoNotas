@@ -1,11 +1,15 @@
 // ==UserScript==
 // @name         Calculadora de notas
-// @namespace    http://tampermonkey.net/
-// @version      2026-06-08
+// @namespace    https://github.com/millaquipay
+// @version      1.0.0
 // @description  Para automatizar los calculos de las notitas del sistema de notas
 // @author       Pablo Ignacio Millaquipay Flores
 // @match        https://docencia.ulagos.cl/notas/mis_cursos.php
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ulagos.cl
+
+// @downloadURL https://raw.githubusercontent.com/millaquipay/prototipoNotas/refs/heads/main/calculadora.js
+// @updateURL https://raw.githubusercontent.com/millaquipay/prototipoNotas/refs/heads/main/calculadora.js
+
 // @grant        none
 // ==/UserScript==
 
