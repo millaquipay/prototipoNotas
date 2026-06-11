@@ -6,10 +6,7 @@
 // @author       Pablo Ignacio Millaquipay Flores
 // @match        https://docencia.ulagos.cl/notas/mis_cursos.php
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ulagos.cl
-
-// @downloadURL https://raw.githubusercontent.com/millaquipay/prototipoNotas/refs/heads/main/calculadora.js
-// @updateURL https://raw.githubusercontent.com/millaquipay/prototipoNotas/refs/heads/main/calculadora.js
-
+// @require https://raw.githubusercontent.com/millaquipay/prototipoNotas/main/calculadora.js
 // @grant        none
 // ==/UserScript==
 
